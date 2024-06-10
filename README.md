@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Business-Administration-Panel
 This project creates a business admin panel using HTML, CSS, JavaScript, and React.js. It includes features like real-time financial insights, scheduling, task management, and user administration. Designed for efficiency and collaboration, it streamlines business operations effectively.
 >>>>>>> origin/main
+=======
+# Business-Administration-Panel
+Developed a web-based administration panel utilizing HTML, CSS, JavaScript, and React.js, offering a centralized hub for managing various aspects of a business. It empowers businesses with intuitive financial insights, efficient scheduling, collaborative user management, and streamlined project task tracking capabilities.
+>>>>>>> 3235457e97aaebd2e86e1fac36dfe60d25704204
