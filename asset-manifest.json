@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Business-Administration-Panel/static/css/main.087f723f.css",
+    "main.js": "/Business-Administration-Panel/static/js/main.014f1ee4.js",
+    "static/js/453.8b98f97c.chunk.js": "/Business-Administration-Panel/static/js/453.8b98f97c.chunk.js",
+    "index.html": "/Business-Administration-Panel/index.html",
+    "main.087f723f.css.map": "/Business-Administration-Panel/static/css/main.087f723f.css.map",
+    "main.014f1ee4.js.map": "/Business-Administration-Panel/static/js/main.014f1ee4.js.map",
+    "453.8b98f97c.chunk.js.map": "/Business-Administration-Panel/static/js/453.8b98f97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087f723f.css",
+    "static/js/main.014f1ee4.js"
+  ]
+}
