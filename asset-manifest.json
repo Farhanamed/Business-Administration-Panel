@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Business-Administration-panel/static/css/main.087f723f.css",
-    "main.js": "/Business-Administration-panel/static/js/main.911bd58a.js",
-    "static/js/453.8b98f97c.chunk.js": "/Business-Administration-panel/static/js/453.8b98f97c.chunk.js",
-    "index.html": "/Business-Administration-panel/index.html",
-    "main.087f723f.css.map": "/Business-Administration-panel/static/css/main.087f723f.css.map",
-    "main.911bd58a.js.map": "/Business-Administration-panel/static/js/main.911bd58a.js.map",
-    "453.8b98f97c.chunk.js.map": "/Business-Administration-panel/static/js/453.8b98f97c.chunk.js.map"
+    "main.css": "/Business-Administration-Panel/static/css/main.087f723f.css",
+    "main.js": "/Business-Administration-Panel/static/js/main.b0426426.js",
+    "static/js/453.8b98f97c.chunk.js": "/Business-Administration-Panel/static/js/453.8b98f97c.chunk.js",
+    "index.html": "/Business-Administration-Panel/index.html",
+    "main.087f723f.css.map": "/Business-Administration-Panel/static/css/main.087f723f.css.map",
+    "main.b0426426.js.map": "/Business-Administration-Panel/static/js/main.b0426426.js.map",
+    "453.8b98f97c.chunk.js.map": "/Business-Administration-Panel/static/js/453.8b98f97c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.087f723f.css",
-    "static/js/main.911bd58a.js"
+    "static/js/main.b0426426.js"
   ]
 }
