@@ -4,7 +4,7 @@ export const cardsData = [
   {
     title: "Revenue",
     change: 24,
-    amount: 42056,
+    amount: 49825,
   },
   {
     title: "Orders",
