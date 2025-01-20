@@ -1,3 +1,31 @@
+# BUSINESS ADMINISTRATION PANEL 
+
+# Project Report:-
+## https://drive.google.com/file/d/1xucFAdPB2aSudHrH601V0Kc_CbiWUVoU/view?usp=drive_link <br>
+
+# Project Video:-
+## https://drive.google.com/file/d/1D9oSIbyP_i67nSXc5xz5S4c7KUG_NqSE/view?usp=drive_link
+
+# Snapshots:-
+### Dashboard:
+  ## ![image](https://github.com/user-attachments/assets/79bb8414-e2e7-4fba-a82b-05d40c747c21)
+### Calendar:
+  ## ![image](https://github.com/user-attachments/assets/89660160-993b-4f3c-8152-b82450fe5442)
+### Trello Board:
+  ## ![image](https://github.com/user-attachments/assets/fbc7da10-afd9-4d6a-a9ef-13bf245c1e18)
+### User's Database:
+  ## ![image](https://github.com/user-attachments/assets/e38000d4-3b35-42cc-921d-516430159b9b)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
