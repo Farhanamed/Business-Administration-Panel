@@ -8,13 +8,16 @@
 
 # Snapshots:-
 ### Dashboard:
-  ## ![image](https://github.com/user-attachments/assets/79bb8414-e2e7-4fba-a82b-05d40c747c21)
+  ## ![image](https://github.com/user-attachments/assets/3635c942-f4d6-40be-abf4-f0275939d0d7)
+
 ### Calendar:
-  ## ![image](https://github.com/user-attachments/assets/89660160-993b-4f3c-8152-b82450fe5442)
+  ## ![image](https://github.com/user-attachments/assets/fc52d5df-1762-4afe-9ecb-c13d40c3e71a)
+
 ### Trello Board:
-  ## ![image](https://github.com/user-attachments/assets/fbc7da10-afd9-4d6a-a9ef-13bf245c1e18)
+  ## ![image](https://github.com/user-attachments/assets/66e35bda-734c-40a3-aa98-bee18bedd9aa)
+
 ### User's Database:
-  ## ![image](https://github.com/user-attachments/assets/e38000d4-3b35-42cc-921d-516430159b9b)
+  ## ![image](https://github.com/user-attachments/assets/50d7dce6-1fa0-4b7f-adc7-5f59b61ea8ca)
 
 
 
